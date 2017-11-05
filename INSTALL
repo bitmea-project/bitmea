@@ -1,0 +1,9 @@
+Building Bitmea
+
+See doc/readme-qt.rst for instructions on building Bitmea-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitmea.
+
+See doc/build-*.txt for instructions on building bitmead,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitmea.

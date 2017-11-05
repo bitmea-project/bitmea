@@ -1,0 +1,34 @@
+src/*.exe
+src/bitmea
+src/bitmead
+src/test_bitmea
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.bitmea
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+bitmea-qt
+Bitmea-Qt.app
+
+# Unit-tests
+Makefile.test
+bitmea-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
