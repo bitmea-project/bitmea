@@ -2,8 +2,8 @@
 =============
 - openssl-1.0.1k or older versions patched for CVE-2014-8275 broke compatibility with Bitcoin and Bitmea.
   This update patches Bitmea to maintain compatibility with CVE-2014-8275 patched openssl.
-- If you are running v0.8.7.4 as distributed by bitmea.org you do not need to upgrade.
-  The binaries distributed on bitmea.org contain their own copy of openssl so they are unaffected by this issue.
+- If you are running v0.8.7.4 as distributed by bitmea.com you do not need to upgrade.
+  The binaries distributed on bitmea.com contain their own copy of openssl so they are unaffected by this issue.
 
 0.8.7.4 changes
 =============

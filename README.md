@@ -1,7 +1,7 @@
 Bitmea integration/staging tree
 ================================
 
-http://www.bitmea.org
+http://www.bitmea.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Bitmea Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Bitmea client sofware, see http://www.bitmea.org.
+the Bitmea client sofware, see http://www.bitmea.com.
 
 License
 -------
