@@ -4,6 +4,7 @@ Bitmea integration/staging tree
 http://www.bitmea.com
 
 Copyright (c) 2011-2017 Bitmea Developers
+
 Copyright (c) 2009-2014 Bitcoin Developers
 
 
